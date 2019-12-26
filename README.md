@@ -1,8 +1,5 @@
 # Weight-Tracker-Bot
 Discord bot that tracks weight for multiple users as a means of motivation
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
